@@ -287,19 +287,19 @@ nav a:hover::before {
 }
 
 .slides .slide:nth-child(1) {
-  background-image: url(/static/images/first_bg.jpg);
+  background-image: url(../images/first_bg.jpg);
 }
 .slides .slide:nth-child(2) {
-  background-image: url(/static/images/second_bg.jpg);
+  background-image: url(../images/second_bg.jpg);
 }
 .slides .slide:nth-child(3) {
-  background-image: url(/static/images/third_bg.jpg);
+  background-image: url(../images/third_bg.jpg);
 }
 .slides .slide:nth-child(4) {
-  background-image: url(/static/images/fourth_bg.jpg);
+  background-image: url(../images/fourth_bg.jpg);
  }
 .slides .slide:nth-child(5) {
-  background-image: url(/static/images/fifth_bg.jpg);
+  background-image: url(../images/fifth_bg.jpg);
 }
 .slides .slide img {
   width: 100%;
@@ -315,7 +315,7 @@ nav a:hover::before {
 .first-content {
 	padding: 100px;
 	text-align: left;
-	padding-top: 13%;
+	/*padding-top: 13%;*/
 }
 
 .first-content .author-image img {
